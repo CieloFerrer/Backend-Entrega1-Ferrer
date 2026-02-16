@@ -1,0 +1,13 @@
+[
+	{
+		"id": 1,
+		"title": "Teclado Mecánico",
+		"description": "RGB Switch Blue",
+		"code": "TEC001",
+		"price": 5500,
+		"stock": 15,
+		"category": "Periféricos",
+		"thumbnails": [],
+		"status": true
+	}
+]
